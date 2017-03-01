@@ -1,1 +1,1 @@
-echo # social-network
+# A small social-network
